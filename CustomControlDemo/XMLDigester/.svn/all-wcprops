@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/book_reader/!svn/ver/277/trunk/BookReader/Read/thirdOpenSource/XMLDigester
+END
+XMLDigesterObjectCreateRule.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/book_reader/!svn/ver/178/trunk/BookReader/Read/thirdOpenSource/XMLDigester/XMLDigesterObjectCreateRule.h
+END
+XMLDigesterSetNextRule.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/book_reader/!svn/ver/178/trunk/BookReader/Read/thirdOpenSource/XMLDigester/XMLDigesterSetNextRule.h
+END
+XMLDigesterCallParamRule.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/book_reader/!svn/ver/178/trunk/BookReader/Read/thirdOpenSource/XMLDigester/XMLDigesterCallParamRule.h
+END
+XMLDigesterCallMethodWithAttributeRule.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/book_reader/!svn/ver/178/trunk/BookReader/Read/thirdOpenSource/XMLDigester/XMLDigesterCallMethodWithAttributeRule.h
+END
+XMLDigester.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/book_reader/!svn/ver/276/trunk/BookReader/Read/thirdOpenSource/XMLDigester/XMLDigester.m
+END
+XMLDigesterSetNextPropertyRule.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/book_reader/!svn/ver/178/trunk/BookReader/Read/thirdOpenSource/XMLDigester/XMLDigesterSetNextPropertyRule.h
+END
+XMLDigesterObjectCreateRule.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/book_reader/!svn/ver/178/trunk/BookReader/Read/thirdOpenSource/XMLDigester/XMLDigesterObjectCreateRule.m
+END
+XMLDigesterSetNextRule.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/book_reader/!svn/ver/178/trunk/BookReader/Read/thirdOpenSource/XMLDigester/XMLDigesterSetNextRule.m
+END
+XMLDigesterCallMethodWithElementBodyRule.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/book_reader/!svn/ver/178/trunk/BookReader/Read/thirdOpenSource/XMLDigester/XMLDigesterCallMethodWithElementBodyRule.h
+END
+XMLDigesterSetPropertyRule.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/book_reader/!svn/ver/178/trunk/BookReader/Read/thirdOpenSource/XMLDigester/XMLDigesterSetPropertyRule.h
+END
+XMLDigesterCallParamRule.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/book_reader/!svn/ver/178/trunk/BookReader/Read/thirdOpenSource/XMLDigester/XMLDigesterCallParamRule.m
+END
+XMLDigesterCallMethodWithAttributeRule.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/book_reader/!svn/ver/178/trunk/BookReader/Read/thirdOpenSource/XMLDigester/XMLDigesterCallMethodWithAttributeRule.m
+END
+XMLDigesterSetNextPropertyRule.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/book_reader/!svn/ver/178/trunk/BookReader/Read/thirdOpenSource/XMLDigester/XMLDigesterSetNextPropertyRule.m
+END
+XMLDigesterCallMethodWithElementBodyRule.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/book_reader/!svn/ver/178/trunk/BookReader/Read/thirdOpenSource/XMLDigester/XMLDigesterCallMethodWithElementBodyRule.m
+END
+XMLDigesterSetPropertyRule.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/book_reader/!svn/ver/178/trunk/BookReader/Read/thirdOpenSource/XMLDigester/XMLDigesterSetPropertyRule.m
+END
+XMLDigesterSetPropertiesRule.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/book_reader/!svn/ver/178/trunk/BookReader/Read/thirdOpenSource/XMLDigester/XMLDigesterSetPropertiesRule.h
+END
+XMLDigesterCallMethodRule.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/book_reader/!svn/ver/178/trunk/BookReader/Read/thirdOpenSource/XMLDigester/XMLDigesterCallMethodRule.h
+END
+XMLDigesterSetPropertiesRule.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/book_reader/!svn/ver/277/trunk/BookReader/Read/thirdOpenSource/XMLDigester/XMLDigesterSetPropertiesRule.m
+END
+XMLDigesterRule.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/book_reader/!svn/ver/178/trunk/BookReader/Read/thirdOpenSource/XMLDigester/XMLDigesterRule.h
+END
+XMLDigesterCallMethodRule.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/book_reader/!svn/ver/178/trunk/BookReader/Read/thirdOpenSource/XMLDigester/XMLDigesterCallMethodRule.m
+END
+XMLDigesterRule.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/book_reader/!svn/ver/178/trunk/BookReader/Read/thirdOpenSource/XMLDigester/XMLDigesterRule.m
+END
+XMLDigester.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/book_reader/!svn/ver/178/trunk/BookReader/Read/thirdOpenSource/XMLDigester/XMLDigester.h
+END

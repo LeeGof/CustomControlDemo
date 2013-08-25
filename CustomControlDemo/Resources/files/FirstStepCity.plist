@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Other</key>
+	<dict>
+		<key>Africa</key>
+		<string>非洲</string>
+		<key>Asia</key>
+		<string>亚洲</string>
+		<key>Europe</key>
+		<string>欧洲</string>
+		<key>North America</key>
+		<string>北美洲</string>
+		<key>Oceania</key>
+		<string>大洋洲</string>
+		<key>South America</key>
+		<string>南美洲</string>
+	</dict>
+	<key>Our</key>
+	<dict>
+		<key>Anhuisheng</key>
+		<string>安徽省&amp;皖</string>
+		<key>Fujiansheng</key>
+		<string>福建省&amp;闽</string>
+		<key>Gansusheng</key>
+		<string>甘肃省&amp;甘、陇</string>
+		<key>Guangdongsheng</key>
+		<string>广东省&amp;粤</string>
+		<key>Guangxi Zhuangzu zizhiqu</key>
+		<string>广西壮族自治区&amp;桂</string>
+		<key>Guizhousheng</key>
+		<string>贵州省&amp;黔</string>
+		<key>Hainansheng</key>
+		<string>海南省&amp;琼</string>
+		<key>Hebeisheng</key>
+		<string>河北省&amp;冀</string>
+		<key>Heilongjiangsheng</key>
+		<string>黑龙江省&amp;黑</string>
+		<key>Henansheng</key>
+		<string>河南省&amp;豫</string>
+		<key>Hubeisheng</key>
+		<string>湖北省&amp;鄂</string>
+		<key>Hunansheng</key>
+		<string>湖南省&amp;湘</string>
+		<key>Jiangsusheng</key>
+		<string>江苏省&amp;苏</string>
+		<key>Jiangxisheng</key>
+		<string>江西省&amp;赣</string>
+		<key>Jilinsheng</key>
+		<string>吉林省&amp;吉</string>
+		<key>Liaoningsheng</key>
+		<string>辽宁省&amp;辽</string>
+		<key>Neimenggu zizhiqu</key>
+		<string>内蒙古自治区&amp;内蒙古</string>
+		<key>Ningxia Huizu zizhiqu</key>
+		<string>宁夏回族自治区&amp;宁</string>
+		<key>Qinghaisheng</key>
+		<string>青海省&amp;青</string>
+		<key>Shandongsheng</key>
+		<string>山东省&amp;鲁</string>
+		<key>Shanxisheng</key>
+		<string>陕西省&amp;陕、秦</string>
+		<key>Shanxisheng_</key>
+		<string>山西省&amp;晋</string>
+		<key>Sichuansheng</key>
+		<string>四川省&amp;川、蜀</string>
+		<key>Taiwansheng</key>
+		<string>台湾省&amp;台</string>
+		<key>Tequ</key>
+		<string>特区&amp;港、澳</string>
+		<key>Xinjiang Weiwuerzu zizhiqu</key>
+		<string>新疆维吾尔自治区&amp;新</string>
+		<key>Xizang zizhiqu</key>
+		<string>西藏自治区&amp;藏</string>
+		<key>Yunnansheng</key>
+		<string>云南省&amp;云、滇</string>
+		<key>Zhejiangsheng</key>
+		<string>浙江省&amp;浙</string>
+		<key>Zhixiashi</key>
+		<string>直辖市&amp;京、津、沪、渝</string>
+	</dict>
+</dict>
+</plist>

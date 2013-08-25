@@ -1,0 +1,124 @@
+/*******************************************************************************
+ * 版权所有 (C)2012用友软件股份有限公司
+ * 
+ * 文件名称： Localizable.strings
+ * 内容摘要： 保存业务变量名称和值
+ * 当前版本： v1.0
+ * 作   者： 李高峰
+ * 完成日期： 2012年8月21日
+ 
+ * 修改日期：
+ * 版 本 号：
+ * 修 改 人：
+ * 修改内容：
+ ******************************************************************************/
+
+//==============================================================================
+// 图片资源
+"ddldown"               = "ddl_down.png";
+"ddlup"                 = "ddl_up.png";
+"checknormal"           = "check_normal.png";
+"checkselect"           = "check_select.png";
+"radionormal"           = "radio_normal.png";
+"radioselect"           = "radio_select.png";
+
+"image1"                = "image1.jpg";
+"image2"                = "image2.jpg";
+
+//==============================================================================
+// 字符串变量值
+"radiobutton"           = "单选框";
+"checkbutton"           = "复选框";
+"dropdownlist"          = "下拉框";
+"chinesetoalpha"        = "汉字转拼音";
+"advertisement"         = "广告";
+"currposition"          = "获取当前位置";
+"xmldigester"           = "XML Digester解析";
+"phoneandemail"         = "电话和邮件";
+"sqlite"                = "SQLite";
+"configfile"            = "配置文件";
+"encryptdecrypt"        = "加密和解密";
+"asihttprequest"        = "ASIHttpRequest";
+"richtextview"          = "富文本框";
+"tablerefresh"          = "表格刷新";
+"downandupzip"          = "下载&&解压缩";
+"selectpic"             = "选择图片";
+"displaygif"            = "显示GIF";
+
+"downrefresh"           = "下拉刷新";
+"topload"               = "上拉加载";
+"loading"               = "正在加载";
+"refresh"               = "正在刷新";
+"releaserefresh"        = "释放刷新";
+"releaseloadmore"       = "释放加载更多";
+"toploadmore"           = "上拉加载更多";
+"lastupdate"            = "最后更新";
+"nothavemore"           = "没有更多数据";
+
+"synchronous"           = "同步";
+"asynchronous"          = "异步";
+
+"source"                = "源串:";
+"aesencrypt"            = "AES加密:";
+"aesdecrypt"            = "AES解密:";
+"sha1"                  = "SHA1加密:";
+"md5"                   = "MD5加密:";
+"encrypt"               = "加密";
+"decrypt"               = "解密";
+
+"read"                  = "读取";
+"write"                 = "写入";
+
+"roottitle"             = "公用方法";
+
+"phone"                 = "电话：";
+"email"                 = "邮件：";
+"nophoneinfo"           = "非iphone设备，不能拨打电话！";
+
+"result"                = "转换结果";
+"time"                  = "所用时间";
+
+"shakeimage"            = "ico_deco_shake.png";
+"shakeaudio"            = "shake";
+"shake"                 = "摇一摇";
+
+"latitude"              = "纬度：";
+"longitude"             = "经度：";
+"city"                  = "城市：";
+
+"qrcode"                = "二维码";
+
+//==============================================================================
+// 提示信息
+"cancel"                = "取消";
+"sure"                  = "确定";
+
+//==============================================================================
+// 控件title
+"whichseason"           = "您喜欢哪个季节？";
+"spring"                = "春季";
+"summer"                = "夏季";
+"autumn"                = "秋季";
+"winter"                = "冬季";
+"btnselect"             = "您选择了？";
+
+"whichfood"             = "您喜欢什么食物？";
+"fish"                  = "鱼";
+"meat"                  = "肉";
+
+"whichcourse"           = "您喜欢哪门课程？";
+"chinese"               = "语文";
+"math"                  = "数学";
+"english"               = "英语";
+"physics"               = "物理";
+"chemistry"             = "化学";
+"history"               = "历史";
+"geography"             = "地理";
+
+"convert"               = "转换";
+
+"ddltype"               = "弹出框方式的下拉框";
+
+
+"type1"                 = "类型1";
+"type2"                 = "类型2";

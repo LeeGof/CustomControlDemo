@@ -1,0 +1,121 @@
+/*******************************************************************************
+ * 版权所有 (C)2012用友软件股份有限公司
+ * 
+ * 文件名称： Localizable.strings
+ * 内容摘要： 保存业务变量名称和值
+ * 当前版本： v1.0
+ * 作   者： 李高峰
+ * 完成日期： 2012年8月21日
+ 
+ * 修改日期：
+ * 版 本 号：
+ * 修 改 人：
+ * 修改内容：
+ ******************************************************************************/
+
+//==============================================================================
+// 图片资源
+"ddldown"       = "ddl_down.png";
+"ddlup"         = "ddl_up.png";
+"checknormal"   = "check_normal.png";
+"checkselect"   = "check_select.png";
+"radionormal"   = "radio_normal.png";
+"radioselect"   = "radio_select.png";
+
+"image1"        = "image1.jpg";
+"image2"        = "image2.jpg";
+
+//==============================================================================
+// 字符串变量值
+"radiobutton"           = "Radio Button";
+"checkbutton"           = "Checkbox Button";
+"dropdownlist"          = "DropDownList";
+"chinesetoalpha"        = "Chinese To Alpha";
+"advertisement"         = "Advertisement";
+"currposition"          = "Get Current Position";
+"xmldigester"           = "XML Digester Parse";
+"phoneandemail"         = "Phone And Email";
+"sqlite"                = "SQLite";
+"configfile"            = "Config File";
+"encryptdecrypt"        = "Encrypt And Decrypt";
+"asihttprequest"        = "ASIHttpRequest";
+"richtextview"          = "RichTextView";
+"tablerefresh"          = "Table Refresh";
+"downandupzip"          = "Download&&Unzip";
+"selectpic"             = "Select Picture";
+"displaygif"            = "Display Gif";
+
+"downrefresh"           = "Down for Refresh";
+"topload"               = "Up for load";
+"loading"               = "Loading";
+"refresh"               = "Refreshing";
+"releaserefresh"        = "Release for refresh";
+"releaseloadmore"       = "Release for load more";
+"toploadmore"           = "Up for load more";
+"lastupdate"            = "Last Update";
+"nothavemore"           = "It's has no more";
+
+"synchronous"           = "Synchronous";
+"asynchronous"          = "Asynchronous";
+
+"source"                = "Source:";
+"aesencrypt"            = "AES Encrypt:";
+"aesdecrypt"            = "AES Decrypt:";
+"sha1"                  = "SHA1 Encrypt:";
+"md5"                   = "MD5 Encrypt:";
+"encrypt"               = "Encrypt";
+"decrypt"               = "Decrypt";
+
+"read"                  = "Read";
+"write"                 = "Write";
+
+"roottitle"             = "Custom Method";
+"phone"                 = "Phone:";
+"email"                 = "Email:";
+"nophoneinfo"           = "This is not phone device,so it is can not dial phone!";
+
+"result"                = "result";
+"time"                  = "time";
+"shakeimage"            = "ico_deco_shake.png";
+"shakeaudio"            = "shake";
+"shake"                 = "shake";
+
+"latitude"              = "Latitude:";
+"longitude"             = "Longitude:";
+"city"                  = "City:";
+
+"qrcode"                = "QR Code";
+
+//==============================================================================
+// 提示信息
+"cancel"                = "Cancel";
+"sure"                  = "Sure";
+
+//==============================================================================
+// 控件title
+"whichseason"           = "Which season do you like?";
+"spring"                = "Spring";
+"summer"                = "Summer";
+"autumn"                = "Autumn";
+"winter"                = "Winter";
+"btnselect"             = "You had selected which one?";
+
+"whichfood"             = "Which food do you like?";
+"fish"                  = "fish";
+"meat"                  = "meat";
+
+"whichcourse"           = "Which course do you like?";
+"chinese"               = "Chinese";
+"math"                  = "Math";
+"english"               = "English";
+"physics"               = "Physics";
+"chemistry"             = "Chemistry";
+"history"               = "History";
+"geography"             = "Geography";
+
+"convert"               = "Convert";
+
+"ddltype"               = "DDLTableAlert";
+
+"type1"                 = "Type1";
+"type2"                 = "Type2";
